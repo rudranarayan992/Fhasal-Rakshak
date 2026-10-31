@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+venv/
+.env
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / tooling
+node_modules/
+
+# Flutter / Dart
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+.pub-cache/
+.pub-spec.yaml
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/Flutter/Generated.xcconfig
+windows/flutter/ephemeral/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled outputs
+*.apk
+*.aab
+*.ipa
